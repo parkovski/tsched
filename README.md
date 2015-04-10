@@ -7,3 +7,11 @@ It also supports a SQLite database to store and retrieve old jobs.
 
 Requires wxWindows and SQLite to build, and you'll have to update the makefiles.
 The coding style is bad, I know - it was one of my first major C++ projects.
+
+![Main window](/screenshots/mainscreen.png)
+
+![Truck bed view](/screenshots/bedview.png)
+
+![Database editor](/screenshots/database.png)
+
+[Example printout](/screenshots/printedschedule.pdf)
